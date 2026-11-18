@@ -1,0 +1,10 @@
+****************************************
+DATA LOG
+****************************************
+Customer Name: Tshegofatso
+Product: Restonic Barbados
+VAT: R 75.0
+COMMISSION: R 25.0
+TOTAL: R 600.0
+****************************************
+
